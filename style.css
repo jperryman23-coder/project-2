@@ -1,0 +1,23 @@
+.chartContainer {
+    display: none;
+}
+
+h1 {
+    font-size: 15px;
+}
+
+.chooseNum {
+    font-size: 12px;
+}
+
+.page2 {
+    display: none;
+}
+
+.input { 
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    height: 25px; 
+    width: 25px; 
+    background-color: #999999; 
